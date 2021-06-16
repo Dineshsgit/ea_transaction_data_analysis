@@ -1,0 +1,6 @@
+{
+  "input_directory": "/input/Transaction.csv",
+  "json_output_directory": "/output/json_output/",
+  "top_suburbs_output": "/output/top_suburbs/",
+  "top_agents_output": "/output/top_agents/"
+}
